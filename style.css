@@ -1,0 +1,30 @@
+body {
+  background-color: #5ebec4;
+}
+
+
+header{
+ background-color: #3cbdc4;
+ height: 80px;
+ font-size: 35pt;
+ font-weight: bold;
+ text-align: center;
+}
+
+
+#cont {
+    padding: 15px;
+  background-color: #60cdc3;
+  width: 60rem;
+}
+
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+footer{
+    background-color: #3cbdc4;
+    height: 80px;
+}
